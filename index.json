@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "gnuplot",
+  "versions": [
+    {
+      "commit": "0375f74b5d315ce3aa5fa0fdcbe2ad1ec56b8af6",
+      "tag": "",
+      "parsed_at": "2026-11-06T08:48:59.468001+00:00"
+    }
+  ]
+}
